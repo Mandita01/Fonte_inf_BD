@@ -7,6 +7,8 @@
 Repositório para Postar atividade da Nossa disciplina
 atividade de Renan, Jian e Amanda
 https://canva.link/vsisozhdhfrskks
+---
+---
 
 # Fonte_de_Informação_e_Banco_de_Dados
 
@@ -40,7 +42,7 @@ O repositório também contém uma análise de dados abertos do PROCON, com foco
 - `dados_petrobras_gas/` — dados e documentação de análise sobre Petrobras e gás natural
 
 ---
-
+---
 ## 🛢️ Dados de Petrobras e Gás Natural
 
 Nesta pasta foi incluída uma análise complementar sobre adesão ao decreto e dados do anuário estatístico da ANP:
@@ -58,14 +60,16 @@ Nesta pasta foi incluída uma análise complementar sobre adesão ao decreto e d
 ### Arquivos de Dados
 
 - [📥 RELAÇÃO DE DADOS Mondal ANP.xlsx](https://github.com/Mandita01/Fonte_inf_BD/raw/main/RELA%C3%87%C3%83O%20DE%20DADOS%20Mondal%20ANP.xlsx) — dados do anuário estatístico da ANP
-
+- Gráfico de adesão ao decreto 1563_95 por data;
+- Comparativo de quantidade de recursos, reusos e downloads por ano;
+- Base em CSV para análise e reprodução.
+---
+---
 ![Captura de tela 2026-10-02 144921](https://github.com/Mandita01/Fonte_inf_BD/blob/main/Captura%20de%20tela%202026-10-02%20144921.png)
 
 
 
-- Gráfico de adesão ao decreto 1563_95 por data;
-- Comparativo de quantidade de recursos, reusos e downloads por ano;
-- Base em CSV para análise e reprodução.
+
 
 ---
 
