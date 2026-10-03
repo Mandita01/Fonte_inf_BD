@@ -2,7 +2,7 @@
 Repositório para Postar atividade da Nossa disciplina
 atividade de Renan, Jian e Amanda
 https://canva.link/vsisozhdhfrskks
-<img width="1217" height="684" alt="image" src="https://github.com/user-attachments/assets/34e02fa3-1a3d-4f51-95c6-f5870207d21f" />
+
 # Fonte_de_Informação_e_Banco_de_Dados
 
 ## 📊 Projeto PROCON
@@ -20,7 +20,13 @@ O repositório também contém uma análise de dados abertos do PROCON, com foco
 
 ### Dashboard do projeto
 
-<img src="https://raw.githubusercontent.com/Mandita01/Fonte_de_Inform-o_e_Banco_de_Dados/main/Captura%20de%20tela%202026-10-02%20145932.png" alt="Dashboard PROCON" width="1000" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mandita01/Fonte_inf_BD/main/Captura%20de%20tela%202026-10-02%20145822.png" alt="Dashboard PROCON - visão geral" width="900" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mandita01/Fonte_inf_BD/main/Captura%20de%20tela%202026-10-02%20145901.png" alt="Dashboard PROCON - comparação e indicadores" width="900" />
+</p>
 
 ### Estrutura do repositório
 - `README.md` — documentação geral do projeto
