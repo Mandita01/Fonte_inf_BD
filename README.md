@@ -67,7 +67,11 @@ Nesta pasta foi incluída uma análise complementar sobre adesão ao decreto e d
 ---
 ![Captura de tela 2026-10-02 144921](https://github.com/Mandita01/Fonte_inf_BD/blob/main/Captura%20de%20tela%202026-10-02%20144921.png)
 
+### Captura da tela do projeto
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mandita01/Fonte_inf_BD/main/Captura%20de%20tela%202026-10-02%20145013.png" alt="Captura de tela do projeto" width="900" />
+</p>
 
 
 
