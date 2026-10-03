@@ -39,7 +39,7 @@ O repositório também contém uma análise de dados abertos do PROCON, com foco
 - `README.md` — documentação geral do projeto
 - `Procon-Dadosdenuncia.xlsx` — base de dados do PROCON
 - `Captura de tela ...png` — imagens do dashboard e evolução do projeto
-- `dados_petrobras_gas/` — dados e documentação de análise sobre Petrobras e gás natural
+[Procon-Dadosdenuncia.xlsx](https://github.com/Mandita01/Fonte_inf_BD/blob/main/Procon-Dadosdenuncia.xlsx)
 
 ---
 ---
