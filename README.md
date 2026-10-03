@@ -73,7 +73,9 @@ Nesta pasta foi incluída uma análise complementar sobre adesão ao decreto e d
   <img src="https://raw.githubusercontent.com/Mandita01/Fonte_inf_BD/main/Captura%20de%20tela%202026-10-02%20145013.png" alt="Captura de tela do projeto" width="900" />
 </p>
 
+## 📊 Arquivo Power BI
 
+[Download do arquivo empresasmultimodais (1).pbix](https://github.com/Mandita01/Fonte_inf_BD/raw/main/empresasmultimodais%20(1).pbix)
 
 ---
 
