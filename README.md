@@ -59,7 +59,7 @@ Nesta pasta foi incluída uma análise complementar sobre adesão ao decreto e d
 
 - [📥 RELAÇÃO DE DADOS Mondal ANP.xlsx](https://github.com/Mandita01/Fonte_inf_BD/raw/main/RELA%C3%87%C3%83O%20DE%20DADOS%20Mondal%20ANP.xlsx) — dados do anuário estatístico da ANP
 
-
+![Captura de tela 2026-10-02 144921](https://github.com/Mandita01/Fonte_inf_BD/blob/main/Captura%20de%20tela%202026-10-02%20144921.png)
 
 
 
