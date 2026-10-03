@@ -1,9 +1,4 @@
 # Apresentação Pessoal
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mandita01/Fonte_inf_BD/main/Captura%20de%20tela%202026-10-02%20145822.png" alt="Imagem de apresentação" width="900" />
-</p>
-
 Repositório para Postar atividade da Nossa disciplina
 atividade de Renan, Jian e Amanda
 https://canva.link/vsisozhdhfrskks
