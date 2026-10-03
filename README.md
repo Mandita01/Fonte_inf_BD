@@ -55,17 +55,11 @@ Nesta pasta foi incluída uma análise complementar sobre adesão ao decreto e d
   <img src="https://raw.githubusercontent.com/Mandita01/Fonte_inf_BD/main/Captura%20de%20tela%202026-10-02%20143002.png" alt="Imagem adicional da análise de Petrobras e gás natural" width="900" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mandita01/Fonte_inf_BD/main/Captura%20de%20tela%202026-10-02%20221425.png" alt="Gráfico de adesão ao decreto 1563_95 por data" width="900" />
-</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mandita01/Fonte_inf_BD/main/Captura%20de%20tela%202026-10-03%20011355.png" alt="Comparativo de recursos, reusos e downloads por ano" width="900" />
-</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mandita01/Fonte_inf_BD/main/Captura%20de%20tela%202026-10-03%20011925.png" alt="Dados do anuário estatístico da ANP" width="900" />
-</p>
+
+
+
 
 - Gráfico de adesão ao decreto 1563_95 por data;
 - Comparativo de quantidade de recursos, reusos e downloads por ano;
