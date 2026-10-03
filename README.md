@@ -55,7 +55,9 @@ Nesta pasta foi incluída uma análise complementar sobre adesão ao decreto e d
   <img src="https://raw.githubusercontent.com/Mandita01/Fonte_inf_BD/main/Captura%20de%20tela%202026-10-02%20143002.png" alt="Imagem adicional da análise de Petrobras e gás natural" width="900" />
 </p>
 
+### Arquivos de Dados
 
+- [📥 RELAÇÃO DE DADOS Mondal ANP.xlsx](https://github.com/Mandita01/Fonte_inf_BD/raw/main/RELA%C3%87%C3%83O%20DE%20DADOS%20Mondal%20ANP.xlsx) — dados do anuário estatístico da ANP
 
 
 
